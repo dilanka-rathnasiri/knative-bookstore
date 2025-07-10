@@ -1,2 +1,3 @@
-# test-spring-redis-cache
-sample spring boot application with redis cache
+# Knative Bookstore
+
+Knative tutorial on bookstore app
